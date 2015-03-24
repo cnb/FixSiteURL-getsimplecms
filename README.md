@@ -9,7 +9,6 @@ Usage:
 - unzip and upload *fixsiteurl.php* to your *plugins* folder and activate it in the Plugin Management page
 - edit your site's *gsconfig.php* file and insert a line like this:    
 `define('OLDSITEURL','http://localhost/oldsite/');`    
-(don't forget the trailing slash)
 
 Notes:
 - It doesn't convert every page you have in the site - it just changes the URLs when you edit or view a page.
